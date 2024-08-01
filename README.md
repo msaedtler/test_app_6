@@ -1,4 +1,4 @@
-# New App
+# New App my Michael Saedtler
 # README
 
 This README would normally document whatever steps are necessary to get the
