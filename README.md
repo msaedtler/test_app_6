@@ -1,4 +1,5 @@
 # New App my Michael Saedtler
+# First test repo on the Complete Ruby on Rails Developer course by Mashrur Hossain
 # README
 
 This README would normally document whatever steps are necessary to get the
